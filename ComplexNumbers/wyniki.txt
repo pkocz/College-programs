@@ -1,0 +1,36 @@
+x = (5 + 5i) y = (6 + 9i)
+Dodawanie = (11 + 14i)
+Odejmowanie = (-1 - 4i)
+Mnożenie = (-15 + 75i)
+Dzielenie = (0.641026 - 0.128205i)
+Minus = (-5 - 5i)
+x += 2  = (7 + 5i)
+x -= 2  = (3 + 5i)
+x *= 2  = (10 + 10i)
+x /= 2  = (2.5 + 2.5i)
+!x = 1
+moduł x = 7.07107
+faza x = 0.785398
+sprzężenie x = (5 - 5i)
+Relacja  x == y: 0
+Relacja  x != y: 1
+Wyniki dla biblioteki complex:
+x = (5,5) y = (6,9)
+Dodawanie = (11,14)
+Odejmowanie = (-1,-4)
+Mnożenie = (-15,75)
+Dzielenie = (0.641026,-0.128205)
+z1 += 2  = (7,5)
+z1 -= 2  = (5,5)
+z1 *= 2  = (10,10)
+z1 /= 2  = (5,5)
+moduł z1 = 7.07107
+faza z1 = 0.785398
+sprzężenie z1 = (5,-5)
+Relacja  z1 == z2: 0
+Sprawdzenie operatorów ++ i --
+x = (5 + 5i)
+y = x++ = (5 + 5i)
+x = (6 + 6i)
+y = x-- = (6 + 6i)
+x = (5 + 5i)
